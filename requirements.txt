@@ -1,0 +1,8 @@
+# Apertus Garden Oracle — dependencies
+# Core (sovereign, on-prem). transformers is required to run Apertus locally.
+transformers>=4.44
+torch>=2.2
+# Optional: hosted HF inference fallback (NOT sovereign — opt in only)
+huggingface_hub>=0.25
+# Optional: tiny web demo (stdlib http.server is used by default; gradio is optional)
+# gradio>=4.0
