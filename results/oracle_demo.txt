@@ -1,0 +1,27 @@
+Apertus Garden Oracle — sovereign heuristic demo (no model weights required)
+
+========================================================================
+
+[english] When should I plant tomatoes?
+Plant tomatoes after the last frost, when soil is ~15C. Set them deep (up to the first leaves) for strong roots. Companions: basil, carrots, marigold. Avoid planting near cabbage or corn. Water at the base, not the leaves, to limit blight.
+
+[Schwiizertüütsch] Wenn pflanz ich Tomate?
+Tomate pflanz mer, wenns nimme früert und de Bode öppe 15°C het. Tuet si dief setze (bis zu de erschte Blätter), denn wachst guet. Gueti Nochbere: Basilikum, Möhre, Ringelblume. Nit näb Kohl oder Mais. Gies vo une, nit über d'Blätter, gege d'Fäule.
+
+[rumansh] Co imprim chal dunna els tomats?
+Plontai ils tomats suenter l'ultim glatsch, cur la terra ha ca. 15°C. Plantai fitg profund (fin als emprims fegl) per ragischs fermas. Buns vischins: basilica, carrotas, calendula. Betg sper il craut u il maís. Aua da sut, buc sur las fegl, cunter la sfieuta.
+
+[français] Quand planter les tomates?
+Plantez les tomates après les dernières gelées, quand le sol avoisine 15°C. Enterrez-les profondément (jusqu'aux premières feuilles). Bons compagnons: basilic, carottes, œillets d'Inde. Évitez le chou et le maïs. Arrosez à la base, pas sur le feuillage, contre le mildiou.
+
+[italiano] Quando piantare i pomodori?
+Nell'emisfero nord seminate colture fresche (lattuga, spinaci, piselli) in primavera e autunno; quelle calde (pomodoro, peperone, cetriolo) dopo la gelata. Nell'emisfero sud il calendario slitta di ~6 mesi.
+
+[english] How do I deal with pests without toxic sprays?
+Prefer cultural and biological controls first: crop rotation, companion planting (marigold, basil), hand-picking, and encouraging ladybugs. Use neem oil or insecticidal soap only when needed. Never reach for broad toxic sprays — they kill pollinators too.
+
+[deutsch] Wie bekämpfe ich Schädlinge ohne Gift?
+Zuerst kulturelle und biologische Methoden: Fruchtfolge, Mischkultur (Ringelblume, Basilikum), Absammeln und Nützlinge wie Marienkäfer fördern. Nur bei Bedarf Neemöl oder Schmierseife. Niemals Breitband-Gifte — die töten auch Bestäuber.
+
+[Schwiizertüütsch] Wie head ich d'Schädling ohni Gift?
+Zerscht natürlechi Methoden: Fruchtwächsel, Mischkultur (Ringelblume, Basilikum), vo Hand abläse und Nützling wie Mariachäfer fördern. Nume bi Bedarf Neemöl oder Schmierseife. Ni tüüf Gift — das tötet au d'Bienen.
