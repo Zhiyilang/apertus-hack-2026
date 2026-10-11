@@ -20,6 +20,7 @@ import json
 import sys
 
 from apertus_client import ApertusClient
+from heuristic import answer as heuristic_answer, detect_language
 
 SYSTEM_PROMPT = (
     "You are the Apertus Garden Oracle, a careful, practical assistant for "
@@ -50,7 +51,11 @@ def build_prompt(question: str, lang: str) -> str:
 
 def answer(client: ApertusClient, question: str, lang: str) -> str:
     prompt = build_prompt(question, lang)
-    return client.generate(prompt, system=SYSTEM_PROMPT)
+    try:
+        return client.generate(prompt, system=SYSTEM_PROMPT)
+    except RuntimeError:
+        # Sovereign graceful degradation: the Oracle still answers offline.
+        return "[heuristic mode — Apertus weights not loaded]\n" + heuristic_answer(question, lang)
 
 
 def main():
